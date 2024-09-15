@@ -1477,11 +1477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ruzen42/Programing/CSharp/GTK/OpenISO-Writer/OpenISO-Writer/OpenISO-Writer.csproj",
+      "projectUniqueName": "/home/ruzen42/Programing/CSharp/GTK/OpenISO-Writer/OpenISO/OpenISO-Writer/OpenISO-Writer.csproj",
       "projectName": "OpenISO-Writer",
-      "projectPath": "/home/ruzen42/Programing/CSharp/GTK/OpenISO-Writer/OpenISO-Writer/OpenISO-Writer.csproj",
+      "projectPath": "/home/ruzen42/Programing/CSharp/GTK/OpenISO-Writer/OpenISO/OpenISO-Writer/OpenISO-Writer.csproj",
       "packagesPath": "/home/ruzen42/.nuget/packages/",
-      "outputPath": "/home/ruzen42/Programing/CSharp/GTK/OpenISO-Writer/OpenISO-Writer/obj/",
+      "outputPath": "/home/ruzen42/Programing/CSharp/GTK/OpenISO-Writer/OpenISO/OpenISO-Writer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ruzen42/.nuget/NuGet/NuGet.Config"
